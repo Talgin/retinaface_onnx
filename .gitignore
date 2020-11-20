@@ -1,0 +1,9 @@
+# Folders and environments
+__pycache__/
+.env
+env/
+# Files
+*.pyc
+*.jpg
+*.onnx
+*.pth

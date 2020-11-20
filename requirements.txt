@@ -1,0 +1,8 @@
+numpy==1.19.4
+onnx==1.8.0
+onnxruntime-gpu==1.5.2
+opencv-python==4.2.0.32
+pkg-resources==0.0.0
+protobuf==3.14.0
+six==1.15.0
+typing-extensions==3.7.4.3
